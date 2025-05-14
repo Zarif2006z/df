@@ -1,0 +1,167 @@
+
+.wrapper {
+    width: 1440px;
+    height: 6817px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+
+}.cards {
+
+    padding-top: 50px;
+
+}
+.card-holders {
+    display: flex;
+
+
+}
+.cards__partal-tv{
+    padding-right: 1%; 
+}
+.cards__partal {
+    padding-right: 1%;
+}
+.cards-partal-plus {
+    padding-right: 1%;
+}
+.cards-partal-mini {
+    padding-right: 1%;
+}
+
+.cards-partal-tv-logo {
+
+    margin-top: -55%;
+    padding-left: 108px;
+    font-size: 24px;
+    font-weight: 105px;
+
+
+
+}
+.color-tv {
+    text-decoration: none;
+    color: #ffffff;
+}
+.partal-logo {
+    margin-top: -55%;
+    padding-left: 130px;
+    font-size: 24px;
+    font-weight: 105px;
+}
+.color-partal {
+    text-decoration: none;
+    color: #ffffff;
+}
+.plus-logo {
+    margin-top: -55%;
+    padding-left: 130px;
+    font-size: 24px;
+    font-weight: 105px;
+}
+.color-plus {
+    text-decoration: none;
+    color: #ffffff;
+}
+.mini-logo {
+    margin-top: -55%;
+    padding-left: 108px;
+    font-size: 24px;
+    font-weight: 105px;
+}
+
+.color-mini {
+    text-decoration: none;
+    color: #ffffff;
+}
+.font-mini {
+    color: #ffffff;
+    padding-left: 25%;
+    margin-top: 0.05px;
+}.color-tv {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+
+
+
+
+.color-partal {
+    text-decoration: none;
+    color: #ffffff;
+}
+.cards__price__fon{
+    display: flex;
+    justify-content: center;
+   
+   
+   
+    
+}
+.img__partall__tv__price{
+    width: 304;
+height: 513;
+top: 0.26px;
+
+}
+.img__portall__prise{
+  padding-left: 3%;
+  width: 304;
+  height: 513;
+  top: 0.26px;
+  
+ 
+
+}
+
+.img__partall__plus__price{
+   padding-left: 6%;
+    
+   width: 304;
+   height: 513;
+   top: 0.26px;
+   
+}
+.img__partall__mini__price{
+  padding-left: 9%; 
+  width: 304;
+  height: 513;
+  top: 0.26px;
+  
+}
+.prise__tv{
+    margin-top: -150%;
+    padding-left: 15%;
+}
+.partal__ptise{
+    width: 193;
+height: 220;
+
+padding-left: 56px;
+margin-top: -10%;
+
+
+}
+.img__prise__partal__plus{
+    width: 193;
+height: 220;
+top: 82px;
+padding-left: 88px;
+margin-top: -10%;
+
+}
+.img__partall__mini__price_v{
+    width: 193;
+height: 220;
+top: 82px;
+padding-left: 90px;
+margin-top: -10%;
+
+}
+
+
+
+
+

@@ -1,0 +1,289 @@
+
+.wrapper {
+    width: 1440px;
+    height: 6817px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+
+}.font-tv {
+    color: #ffffff;
+    padding-left: 17%;
+    margin-top: 0.05px;
+}
+.font-partal {
+    color: #ffffff;
+    padding-left: 25%;
+    margin-top: 0.05px;
+}
+.font-plus {
+    color: #ffffff;
+    padding-left: 25%;
+    margin-top: 0.05px;
+}
+.font-2 {
+    color: #1b365d;
+    font-size: 50px;
+    font-weight: 682px;
+    padding-left: 6%;
+    margin-top: -20%;
+
+}
+.font-3 {
+    color: #1b365d;
+    padding-left: 15%;
+    margin-top: 3%;
+    font-size: 24px;
+    font-weight: 700px;
+}
+.font-4 {
+    color: #1b365d;
+    padding-left: 65%;
+    margin-top: -12%;
+    font-size: 24px;
+    font-weight: 700px;
+}
+.font-roboto {
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+.font-roboto-2 {
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.title__cards__price{
+    width: 480px;
+height: 110px;
+top: -3px;
+gap: 0px;
+opacity: 0px;
+font-family: Roboto;
+font-size: 50px;
+font-weight: 700;
+line-height: 55px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-top: -60%;
+padding-left: 3%;
+color: #1b365d;
+display: flex;
+}
+.font__roboto__price{
+    
+top: 0.39px;
+gap: 0px;
+opacity: 0px;
+font-family: Roboto;
+font-size: 17px;
+font-weight: 400;
+line-height: 23px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+padding-left: 6%;
+margin-top: -4%;
+
+}
+.font__roboto__price__2{
+    padding-left: 6%;
+    margin-top: -1%;
+}
+.logo__prise{
+    display: flex;
+    
+}
+.Prise__logo{
+   margin-top: -160%;
+   padding-left: 4%;
+}
+.Prise__logo{
+    margin-top: -168%;
+    padding-left: 6%;
+    font-family: Roboto;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+letter-spacing: 0%;
+color: #1B365D;
+
+}
+
+.prise__149{
+    margin-top: -167%;
+    padding-left: 50%;
+    font-family: Roboto;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+color:  #1B365D;
+
+
+    
+}
+.font__roboto__price__tv{
+    width: 136;
+height: 40;
+top: 327px;
+left: 84px;
+font-family: Roboto;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+background: #434140;
+
+
+}
+.partal__179{
+    padding-left: 80%;
+    margin-top: -13.5%;
+    font-family: Roboto;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+color: #1B365D;
+
+}
+.logo__prise__patall{
+    margin-top: -168%;
+    padding-left: 6%;
+    font-family: Roboto;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+letter-spacing: 0%;
+color: #1B365D;
+
+}
+.font__roboto__price__partal{
+    width: 136;
+height: 40;
+top: 327px;
+padding-left: 84px;
+
+}
+.logo__prise__patall__plus{
+    margin-top: -167%;
+    width: 66;
+height: 26;
+top: 0.26px;
+padding-left: 12%;
+font-family: Roboto;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+letter-spacing: 0%;
+color: #1B365D;
+
+}
+.partal__plus__279{
+    padding-left: 88%;
+    margin-top: -14%;
+    width: 36;
+height: 26;
+
+
+    font-family: Roboto;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+color: #1B365D;
+}
+.font__roboto__price__partal__plus{
+    padding-left: 12%;
+    font-family: Roboto;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+
+
+
+
+}
+.logo__prise__patall__mini{
+    margin-top: -167%;
+    padding-left: 12%;
+    font-family: Roboto;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+letter-spacing: 0%;
+color: #1B365D;
+}
+.partal__mini__129{
+    padding-left:88%;
+    margin-top:-14%;
+    font-family: Roboto;
+font-weight: 400;
+font-size: 19px;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+color: #1B365D;
+}
+.font__roboto__price__partal__mini{
+    width: 136;
+    height: 40;
+    
+    padding-left: 19%;
+    font-family: Roboto;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+
+      
+}
+.font__footer{
+    width: 264;
+height: 40;
+top: 0.81px;
+padding-right: 100px;
+margin-top: 5%;
+padding-left: 300px;
+color: #ffffff;
+font-family: Roboto;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0%;
+
+}
+.font__footer__roboto{
+    width: 782;
+height: 68;
+margin-top: 4%;
+font-family: Roboto;
+font-weight: 400;
+font-size: 11px;
+line-height: 17px;
+letter-spacing: 0%;
+padding-left: 20%;
+color: #ffffff;
+
+}
+
